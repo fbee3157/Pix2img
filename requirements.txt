@@ -1,0 +1,18 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+optimum-intel>=1.22.0
+nncf==2.14.1
+torch>=2.1
+datasets
+accelerate
+gradio>=4.19
+transformers>=4.45
+huggingface-hub>=0.26.5
+einops
+tiktoken
+git+https://github.com/deepseek-ai/Janus
+numpy<2.0.0
+requests
+
+--extra-index-url https://storage.openvinotoolkit.org/simple/wheels/nightly
+--pre
+openvino-genai==2025.1.0.0.dev20250211
