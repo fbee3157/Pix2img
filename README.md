@@ -1,7 +1,6 @@
-modelscope创空间部署 AutoML
+# modelscope创空间部署 AutoML
 
-# 领域：
-cv/nlp/audio/multi-modal/AutoML
+## 领域：cv/nlp/audio/multi-modal/AutoML
 
 ## 详细文档见damain:
 
@@ -31,7 +30,7 @@ license: Apache License 2.0
 ```
 
 
-#### Clone with HTTP
+### Clone with HTTP
 
 ```bash
  git clone https://www.modelscope.cn/studios/kemomi/GDC-OpenVINO-LAB2.git
